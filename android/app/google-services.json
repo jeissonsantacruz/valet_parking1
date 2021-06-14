@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22001600716",
+    "project_id": "valetparking-10b3c",
+    "storage_bucket": "valetparking-10b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22001600716:android:6bc75efad42b0f60ac9a69",
+        "android_client_info": {
+          "package_name": "com.example.valet_parking1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22001600716-672d20for0224np7kva6cbevbmoj81v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_G3mUS2sh7AVzhP5Zt2jqiyBiByPGe6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22001600716-672d20for0224np7kva6cbevbmoj81v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
